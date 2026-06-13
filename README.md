@@ -66,12 +66,6 @@ https://github.com/[your-username]/rvg
 
 ---
 
-## 📢 شبکه‌های اجتماعی codebox
-
-| پلتفرم | لینک |
-|---|---|
-| 📨 کانال تلگرام | [@CodeBoxo](https://t.me/CodeBoxo) |
-| ▶️ یوتیوب | [Code Box](https://www.youtube.com/@Code_Box-c6f) |
 
 ---
 
